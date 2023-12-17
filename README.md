@@ -1,3 +1,3 @@
-### Aula de Git % Github
+### Aula de Git & Github
 
 Repositório utilizado para aprender github
